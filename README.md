@@ -1,7 +1,7 @@
 Readme 
 
 
-# Vlad | iOS Software Engineer 📱
+# Vlad | Senior iOS Software Engineer 📱
 
 > “Building tiny worlds that fit in your pocket”  
 > — mobile craftsmanship & mindful code
