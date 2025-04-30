@@ -12,7 +12,7 @@ Readme
 
 - 🔭 **Currently working on:** `Fishbox`  
 - 🌱 **Learning:** SwiftUI · swift-sharing 
-- 🧭 **Core values:** clean architecture
+- 🧭 **Core values:** TCA
 
 ---
 
